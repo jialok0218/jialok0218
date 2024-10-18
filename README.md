@@ -14,9 +14,3 @@ I'm an IT graduate specializing in Computer Networking and Security, with a stro
   
 ### 🛠️ Open to Opportunities:
 I'm currently looking for a **Junior Programmer** role to kickstart my career and collaborate on exciting tech projects. If you're looking for someone who loves tackling challenges and bringing ideas to life, I’d love to chat!
-
-### 📫 Connect with Me:
-<p align="left">
-<a href="https://linkedin.com/in/jialok0218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jialok0218" height="30" width="40" /></a>
-<a href="mailto:jialok0218@gmail.com" target="blank"><img align="center" src="https://your-link-to-gif-here.gif" alt="Email" height="30" width="40" /></a>
-</p>
