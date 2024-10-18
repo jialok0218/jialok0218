@@ -14,3 +14,8 @@ I'm an IT graduate specializing in Computer Networking and Security, with a stro
   
 ### 🛠️ Open to Opportunities:
 I'm currently looking for a **Junior Programmer** role to kickstart my career and collaborate on exciting tech projects. If you're looking for someone who loves tackling challenges and bringing ideas to life, I’d love to chat!
+
+
+### Stats
+
+[![JiaLok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jialok0218&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
