@@ -22,7 +22,7 @@ I'm an IT graduate specializing in Computer Networking and Security, with a stro
 
 ## <img src="https://media.giphy.com/media/JQ9FHhns6CPwKuIoYZ/giphy.gif" width="40px"/> Projects I Have Done
 
-- 🥚 **Egg Supplier Website**: Simple static website for a local egg supplier.
+- 🥚 **Egg Supplier Website**: A dynamic and engaging website showcasing premium quality eggs from a trusted local supplier.
 - 🎟️ **NFT Ticketing System**: Developed a decentralized ticketing platform called **BlockSeats**.
   
 ##  <img src="https://media.giphy.com/media/jlgqT5mJsQcX1WKVOj/giphy.gif" width="40px"/> Open to Opportunities:
