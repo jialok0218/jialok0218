@@ -32,3 +32,10 @@ I'm currently looking for a **Junior Programmer** role to kickstart my career an
 ## <img src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" width="40px"/> Stats
 
 [![JiaLok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jialok0218&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🐍 GitHub Contribution Snake Game
+<div align="center">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jialok0218/jialok0218/output/github-contribution-grid-snake.svg" /> 
+</div>
