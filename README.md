@@ -28,6 +28,9 @@ I'm an IT graduate specializing in Computer Networking and Security, with a stro
 ##  <img src="https://media.giphy.com/media/jlgqT5mJsQcX1WKVOj/giphy.gif" width="40px"/> Open to Opportunities:
 I'm currently looking for a **Junior Programmer** role to kickstart my career and collaborate on exciting tech projects. If you're looking for someone who loves tackling challenges and bringing ideas to life, I’d love to chat!
 
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHduYXJocHh5bjcwamlmbHFmM3ltb3RqeXJoazVxbXl5YnRncnoyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="40px"/> Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jialok0218&layout=donut&theme=dark)
 
 ## <img src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" width="40px"/> Stats
 
