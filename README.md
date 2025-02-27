@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Jia Lok!
+# 👋 GM, I'm Lok!
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VocHRraDl4bWZ4Zm8xMXJ1ejViN3RwaDh0azF5aTVwZXMweGdsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x1MhJNTGjnQOOlPuml/giphy.gif" width="40px"/>  About Me
 
