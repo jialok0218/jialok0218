@@ -2,7 +2,9 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VocHRraDl4bWZ4Zm8xMXJ1ejViN3RwaDh0azF5aTVwZXMweGdsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x1MhJNTGjnQOOlPuml/giphy.gif" width="40px"/>  About Me
 
-I'm an IT graduate specializing in Computer Networking and Security, with a strong focus on **web application development** and **backend programming**. I enjoy building scalable, secure, and efficient backend systems, with a particular love for working with **Java** and modern web frameworks.
+🚀 IT Graduate | Backend Developer in Progress 
+
+I’m an IT graduate specializing in Computer Networking and Security, with a strong focus on web application development and backend programming. Currently, I’m diving deep into Golang, exploring its power in building scalable, secure, and high-performance backend systems.
 
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhyZjVhcDNocHBncmpxNmp2a21remRnaTEza3NuaDF1N3Y1eGx0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40px"/> Languages and Tools
@@ -24,9 +26,6 @@ I'm an IT graduate specializing in Computer Networking and Security, with a stro
 
 - 🥚 **Egg Supplier Website**: A dynamic and engaging website showcasing premium quality eggs from a trusted local supplier.
 - 🎟️ **NFT Ticketing System**: Developed a decentralized ticketing platform called **BlockSeats**.
-  
-##  <img src="https://media.giphy.com/media/jlgqT5mJsQcX1WKVOj/giphy.gif" width="40px"/> Open to Opportunities:
-I'm currently looking for a **Junior Programmer** role to kickstart my career and collaborate on exciting tech projects. If you're looking for someone who loves tackling challenges and bringing ideas to life, I’d love to chat!
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHduYXJocHh5bjcwamlmbHFmM3ltb3RqeXJoazVxbXl5YnRncnoyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="40px"/> Most Used Languages
 
