@@ -20,7 +20,7 @@ I’m an IT graduate specializing in Computer Networking and Security, with a st
 <code><img height="20" src="https://cdn.svgporn.com/logos/puppeteer.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/solidity.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/sgo.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></code>
 
 
 
