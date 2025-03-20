@@ -19,8 +19,10 @@ I’m an IT graduate specializing in Computer Networking and Security, with a st
 <code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/puppeteer.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/spring-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/solidity.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/sgo.svg"></code>
+
+
 
 ## <img src="https://media.giphy.com/media/JQ9FHhns6CPwKuIoYZ/giphy.gif" width="40px"/> Projects I Have Done
 
