@@ -20,7 +20,7 @@ var aboutMe = struct {
     Name: "Jia Lok",
     Overview: `Backend enjoyer. I speak fluent Go (🐹), yell at bugs like a true backend monk. Currently experimenting with Web3 magic — NFTs, dApps, and other blockchain sorcery.`,
     Email: "jialok0218@gmail.com",
-    LinkedIn: "https://www.linkedin.com/in/jialok0218/](https://www.linkedin.com/in/sayjialok",
+    LinkedIn: "https://www.linkedin.com/in/sayjialok",
     Medium: "https://medium.com/@lok.dev",
     FavouriteProgrammingLangs: []string{"Go", "JavaScript", "TypeScript"},
 }
