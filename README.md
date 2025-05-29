@@ -2,9 +2,33 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VocHRraDl4bWZ4Zm8xMXJ1ejViN3RwaDh0azF5aTVwZXMweGdsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x1MhJNTGjnQOOlPuml/giphy.gif" width="40px"/>  About Me
 
-🚀 IT Graduate | Backend Developer in Progress 
+```go
+package main
 
-I’m an IT graduate specializing in Computer Networking and Security, with a strong focus on web application development and backend programming. Currently, I’m diving deep into Golang, exploring its power in building scalable, secure, and high-performance backend systems.
+import (
+    "fmt"
+)
+
+var aboutMe = struct {
+    Name                       string
+    Overview                   string
+    Email                      string
+    LinkedIn                   string
+    Medium                     string
+    FavouriteProgrammingLangs []string
+}{
+    Name: "Jia Lok",
+    Overview: `Backend enjoyer. I speak fluent Go (🐹), yell at bugs like a true backend monk. Currently experimenting with Web3 magic — NFTs, dApps, and other blockchain sorcery.`,
+    Email: "jialok0218@gmail.com",
+    LinkedIn: "https://www.linkedin.com/in/jialok0218/",
+    Medium: "https://medium.com/@jialok.dev",
+    FavouriteProgrammingLangs: []string{"Go", "JavaScript", "TypeScript"},
+}
+
+func main() {
+    fmt.Println(aboutMe)
+}
+```
 
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhyZjVhcDNocHBncmpxNmp2a21remRnaTEza3NuaDF1N3Y1eGx0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40px"/> Languages and Tools
