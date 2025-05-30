@@ -31,9 +31,9 @@ func main() {
 ```
 
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhyZjVhcDNocHBncmpxNmp2a21remRnaTEza3NuaDF1N3Y1eGx0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40px"/> Languages and Tools
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhyZjVhcDNocHBncmpxNmp2a21remRnaTEza3NuaDF1N3Y1eGx0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40px"/> Technologies and Tools
 
-
+<code><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nextjs-icon.svg"></code>
@@ -44,7 +44,8 @@ func main() {
 <code><img height="20" src="https://cdn.svgporn.com/logos/puppeteer.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/solidity.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/grpc.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/docker.svg"></code>
 
 
 
